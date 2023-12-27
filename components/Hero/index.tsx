@@ -58,11 +58,11 @@ const Hero = () => {
                  Welcome to
               </h4>
               <h1 className=" text-4xl font-bold pr-16 heading-text  text-white dark:text-white xl:text-hero hover:translate-y-[-18px]" style={{ marginBottom:"-15px" }}>
-              Atoms 2.O
+              Atoms Education
               </h1>
               <div className="text-xl">   
               <p className="mt-8 w-1/2 text-white font-regular">
-              Atoms 2.O is committed to providing affordable and impressive 2.O+ services for people from all social backgrounds.
+              Atoms Education is committed to providing affordable and impressive Education+ services for people from all social backgrounds.
               </p>
               </div>
               <div className="mt-8">
