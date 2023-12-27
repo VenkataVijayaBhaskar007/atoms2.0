@@ -217,7 +217,7 @@ const About = () => {
 
 
 
-<section className="container mx-auto my-2">
+<section className="container mx-auto my-2 xl:mb-50">
   
     {/* First Card */}
     <motion.div
@@ -236,16 +236,16 @@ const About = () => {
         whileInView="visible"
         transition={{ duration: 1, delay: 0.5 }}
         viewport={{ once: true }}
-        className="animate_top rounded-lg bg-white p-4 pb-9 shadow-solid-8 dark:bg-blacksection"
+        className="animate_top rounded-lg bg-white p-4 pb-9 "
       >
  <div className="flex flex-wrap justify-center">
   
   {/*card 2 */}
-  <div className="py10">
+  <div className="py10 transform hover:scale-105 transition-all duration-300 ease-in-out">
   <div className="relative  h-48 overflow-hidden max-w-sm mx-8  rounded-bottom-right rounded-top-left rounded-top-right">
     <img
       className="object-cover object-center w-full h-full rounded-bottom-right rounded-top-left rounded-top-right"
-      src="https://via.placeholder.com/350x200"
+     src="./images/about/4.svg"
       alt="card image"
     />
     {/* Unique Shape Overlay */}
@@ -253,7 +253,7 @@ const About = () => {
   </div>
 
   {/* Card */}
-  <div className="max-w-sm mx-8  overflow-hidden bg-white dark:bg-btndark rounded-lg shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300 ease-in-out margin1 rounded-top-left-card rounded-top-right-card rounded-bottom-right-card rounded-bottom-left" style={{marginTop:"-1rem"}}>
+  <div className="max-w-sm mx-8  overflow-hidden bg-white dark:bg-btndark rounded-lg shadow-lg hover:shadow-xl  transform hover:scale-100 transition-all duration-300 ease-in-out margin1 rounded-top-left-card rounded-top-right-card rounded-bottom-right-card rounded-bottom-left" style={{marginTop:"-1rem"}}>
     <div className="p-6 relative z-10">
     <small className="text-blue-400 text-xs">Atoms 2.0</small>
       <h2 className="mb-3 text-2xl font-semibold text-gray-800 dark:text-white">Engineers Scoops </h2>
@@ -269,7 +269,7 @@ Engineer's Scoops is an exceptional ice-cream and falooda outlet proudly brought
   </div>
   </div>
   {/*card 3 */}
-  <div className="py10">
+  <div className="py10 transform hover:scale-105 transition-all duration-300 ease-in-out">
   <div className="relative  h-48 overflow-hidden max-w-sm mx-8  rounded-bottom-right rounded-top-left rounded-top-right">
     <img
       className="object-cover object-center w-full h-full rounded-bottom-right rounded-top-left rounded-top-right"
@@ -281,7 +281,7 @@ Engineer's Scoops is an exceptional ice-cream and falooda outlet proudly brought
   </div>
 
   {/* Card */}
-  <div className="max-w-sm mx-8  overflow-hidden bg-white dark:bg-btndark rounded-lg shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300 ease-in-out margin1 rounded-top-left-card rounded-top-right-card rounded-bottom-right-card rounded-bottom-left" style={{marginTop:"-1rem"}}>
+  <div className="max-w-sm mx-8  overflow-hidden bg-white dark:bg-btndark rounded-lg shadow-lg hover:shadow-xl transform hover:scale-100 transition-all duration-300 ease-in-out margin1 rounded-top-left-card rounded-top-right-card rounded-bottom-right-card rounded-bottom-left" style={{marginTop:"-1rem"}}>
     <div className="p-6 relative z-10">
       <small className="text-blue-400 text-xs">Atoms 2.0</small>
       <h2 className="mb-3 text-2xl font-semibold text-gray-800 dark:text-white">MJ saloon and SPA </h2>
