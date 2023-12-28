@@ -227,7 +227,22 @@ const Section2 = () => {
   </motion.div>
 </section>
 
+<section className="my-5">
+  <div className="flex items-center justify-center">
+    <div className="text-center">
+      <h1 className="text-3xl font-bold text-black">Price & Menu</h1>
+    </div>
+  </div>
 
+  <div className="mx-auto justify-center items-center flex flex-col md:flex-row gap-20 p-4 lg:p-10">
+    <img className="object-cover object-center rounded w-[80%] md:w-[40%]  h-full" src="./images/about/MJ1.png" alt="Menu 1" />
+    <img className="object-cover object-center rounded w-[80%] md:w-[40%]  h-full" src="./images/about/MJ2.png" alt="Menu 2" />
+  </div>
+  <div className="mx-auto justify-center items-center flex flex-col md:flex-row gap-20 p-4 lg:p-10">
+    <img className="object-cover object-center rounded w-[80%] md:w-[40%]  h-full" src="./images/about/MJ3.png" alt="Menu 1" />
+    <img className="object-cover object-center rounded w-[80%] md:w-[40%]  h-full" src="./images/about/MJ4.png" alt="Menu 2" />
+  </div>
+</section>
 
 
 
