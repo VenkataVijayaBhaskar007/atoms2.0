@@ -27,13 +27,13 @@ const menuData: Menu[] = [
     submenu: [
       {
         id: 31,
-        title: "Atoms Group",
+        title: "Engineer's Scoops",
         newTab: false,
         path: "https://atoms-group2.vercel.app/",
       },
       {
         id: 34,
-        title: "Atoms Education",
+        title: "MJ Saloon and Spa",
         newTab: false,
         path: "https://atoms-education-omega.vercel.app/",
       },

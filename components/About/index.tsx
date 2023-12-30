@@ -245,11 +245,11 @@ const About = () => {
   <div className="relative  h-48 overflow-hidden max-w-sm mx-8  rounded-bottom-right rounded-top-left rounded-top-right">
     <img
       className="object-cover object-center w-full h-full rounded-bottom-right rounded-top-left rounded-top-right"
-     src="./images/about/4.svg"
+     src="./images/about/3.svg"
       alt="card image"
     />
     {/* Unique Shape Overlay */}
-    <div className="absolute inset-0 bg-gradient-to-r from-purple-500 to-blue-500 opacity-75 rounded-bottom-right rounded-top-left rounded-top-right"></div>
+    <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-sky-500 opacity-30 rounded-bottom-right rounded-top-left rounded-top-right"></div>
   </div>
 
   {/* Card */}
@@ -260,7 +260,7 @@ const About = () => {
 <p className="text-sm tracking-tight font-light text-slate-400 leading-6">
 Engineer's Scoops is an exceptional ice-cream and falooda outlet proudly brought to you by Atoms Group. With a team of skilled engineers at the...   </p>
       <a
-        href="/section2"
+        href="/EngineersScoops"
         className="inline-flex items-center gap-2.5 text-black hover:text-primary dark:text-white dark:hover:text-primary mt-5"
       >
         <button className="bg-blue-500 text-white rounded-md px-2 py-1">Visit site</button>
@@ -273,11 +273,11 @@ Engineer's Scoops is an exceptional ice-cream and falooda outlet proudly brought
   <div className="relative  h-48 overflow-hidden max-w-sm mx-8  rounded-bottom-right rounded-top-left rounded-top-right">
     <img
       className="object-cover object-center w-full h-full rounded-bottom-right rounded-top-left rounded-top-right"
-      src="https://via.placeholder.com/350x200"
+      src="./images/about/4.svg"
       alt="card image"
     />
     {/* Unique Shape Overlay */}
-    <div className="absolute inset-0 bg-gradient-to-r from-purple-500 to-blue-500 opacity-75 rounded-bottom-right rounded-top-left rounded-top-right"></div>
+    <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-sky-500 opacity-30 rounded-bottom-right rounded-top-left rounded-top-right"></div>
   </div>
 
   {/* Card */}
@@ -289,7 +289,7 @@ Engineer's Scoops is an exceptional ice-cream and falooda outlet proudly brought
 
 Welcome to MJ Salon and Spa, where luxury meets tranquility. Nestled in a serene oasis, our sanctuary offers a range of tailored treatments to rejuvenate...   </p>
       <a
-        href="/section3"
+        href="/Mj"
         className="inline-flex items-center gap-2.5 text-black hover:text-primary dark:text-white dark:hover:text-primary mt-5"
       >
         <button className="bg-blue-500 text-white rounded-md px-2 py-1">Visit site</button>
