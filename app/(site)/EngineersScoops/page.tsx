@@ -25,7 +25,7 @@ const EngineersScoops = () => {
             </a>
         </div>
         <div className="mt-10 lg:mt-0 lg:col-span-5 sm:flex">
-            <img src="./images/about/scoops.jpg" alt="mockup"/>
+            <img src="./images/about/scoops.png" alt="mockup"/>
         </div>                
     </div>
 </section>

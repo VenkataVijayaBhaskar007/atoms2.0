@@ -16,7 +16,7 @@ import Testimonial from "@/components/Testimonial";
 
 
 export const metadata: Metadata = {
-  title: "Atoms Group",
+  title: "Atoms 2.0",
   description: "This is Home page",
   // other metadata
 };

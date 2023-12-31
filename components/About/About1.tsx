@@ -59,7 +59,7 @@ const About1 = () => {
                    
                     <div className="relative py-3 sm:py-4">
                       <img
-                        src="./images/about/5.svg"
+                        src="./images/about/6.svg"
                         alt=""
                         className="w-full  rounded-2xl custom-rounded-corner2"
                       />
@@ -73,7 +73,7 @@ const About1 = () => {
                     
                   <div className="relative py-3 sm:py-4">
                   <img
-                      src="./images/about/6.svg"
+                      src="./images/about/4.svg"
                       alt=""
                       className="w-full rounded-2xl custom-rounded-corner3"
                     />
@@ -82,7 +82,7 @@ const About1 = () => {
                  
                   <div className="relative py-3 sm:py-4">
                     <img
-                      src="./images/about/4.svg"
+                      src="./images/about/5.svg"
                       alt=""
                       className="w-full  rounded-2xl custom-rounded-corner4"
                     />
