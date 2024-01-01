@@ -14,6 +14,7 @@ const images = [
   "/herosection/3.svg",
 
   "/herosection/4.svg",
+  "/herosection/5.svg",
 
 
 ];
