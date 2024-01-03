@@ -3,7 +3,7 @@ import Cards from "./Cards";
 const About1 = () => {
   return (
     <>
-      <section className="overflow-hidden xl:pt-16 lg:pt-2 pb-20  lg:pb-[90px] bg-white dark:bg-dark px-10">
+      <section className="overflow-hidden xl:pt-16 lg:pt-2 pb-2   bg-white dark:bg-dark px-10">
         <div className="container mx-auto">
           <div className="flex flex-wrap items-center justify-between -mx-4">
           
