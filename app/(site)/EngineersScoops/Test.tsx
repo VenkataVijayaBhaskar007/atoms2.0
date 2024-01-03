@@ -90,8 +90,8 @@ E roju Ice cream panipuri tinnamu taste ayithe chala antey chala bagundi ❤we�
                             </div>
                         </div>
                         <div className="w-full">
-                            <p className="text-sm leading-tight"><span className="text-lg leading-none italic font-bold text-gray-400 mr-1"></span>Before falooda 💔———->after falooda ❤‍�<span className="text-lg leading-none italic font-bold text-gray-400 ml-1"> </span></p>
-                        </div>
+                        <p className="text-sm leading-tight"><span className="text-lg leading-none italic font-bold text-gray-400 mr-1"></span>Assalu ela bro intha talent.. really awesome asalu, aa paani puri icecream ithe ultimate.. next week frnds tho vastunna thick shakes try cheyyali esari....<span className="text-lg leading-none italic font-bold text-gray-400 ml-1"></span></p>
+                    </div>
                     </div>
                     <div className="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
                         <div className="w-full flex mb-4 items-center">
