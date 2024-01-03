@@ -31,8 +31,8 @@ const TestimonialSlider = () => {
                             </div>
                         </div>
                         <div className="w-full">
-                            <p className="text-sm leading-tight"><span className="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>Hi bro I’m visit your falooda outlet the falooda is very delicious 🤤 and more to more eat this falooda vans new delicious and new tasty items 😍
-Thank you<span className="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
+                            <p className="text-sm leading-tight"><span className="text-lg leading-none italic font-bold text-gray-400 mr-1"></span>Hi bro I’m visit your falooda outlet the falooda is very delicious 🤤 and more to more eat this falooda vans new delicious and new tasty items 😍
+Thank you<span className="text-lg leading-none italic font-bold text-gray-400 ml-1"></span></p>
                         </div>
                     </div>
                     <div className="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
@@ -45,7 +45,7 @@ Thank you<span className="text-lg leading-none italic font-bold text-gray-400 m
                             </div>
                         </div>
                         <div className="w-full">
-                            <p className="text-sm leading-tight"><span className="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>I think the combination of flavors you chose is absolutely fantastic! It must have been a real treat for taste buds! Keep up the great work in experimenting with different flavors. Me and my friends enjoyed a lot<span className="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
+                            <p className="text-sm leading-tight"><span className="text-lg leading-none italic font-bold text-gray-400 mr-1"></span>I think the combination of flavors you chose is absolutely fantastic! It must have been a real treat for taste buds! Keep up the great work in experimenting with different flavors. Me and my friends enjoyed a lot<span className="text-lg leading-none italic font-bold text-gray-400 ml-1"></span></p>
                         </div>
                     </div>
                 </div>
@@ -60,8 +60,8 @@ Thank you<span className="text-lg leading-none italic font-bold text-gray-400 m
                             </div>
                         </div>
                         <div className="w-full">
-                            <p className="text-sm leading-tight"><span className="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>Tried dryfruit milkshake.Abbabaa Taste matram adiripoindi
-Price kuda reasonable ga undi. Finally Aa nuts,aa flavour of icecreams chala bagunnai.All the best bro<span className="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
+                            <p className="text-sm leading-tight"><span className="text-lg leading-none italic font-bold text-gray-400 mr-1"></span>Tried dryfruit milkshake.Abbabaa Taste matram adiripoindi
+Price kuda reasonable ga undi. Finally Aa nuts,aa flavour of icecreams chala bagunnai.All the best bro<span className="text-lg leading-none italic font-bold text-gray-400 ml-1"></span></p>
                         </div>
                     </div>
                     <div className="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
@@ -74,8 +74,8 @@ Price kuda reasonable ga undi. Finally Aa nuts,aa flavour of icecreams chala bag
                             </div>
                         </div>
                         <div className="w-full">
-                            <p className="text-sm leading-tight"><span className="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>Hii
-E roju Ice cream panipuri tinnamu taste ayithe chala antey chala bagundi ❤we loved it .....<span className="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
+                            <p className="text-sm leading-tight"><span className="text-lg leading-none italic font-bold text-gray-400 mr-1"></span>Hii
+E roju Ice cream panipuri tinnamu taste ayithe chala antey chala bagundi ❤we loved it .....<span className="text-lg leading-none italic font-bold text-gray-400 ml-1"></span></p>
                         </div>
                     </div>
                 </div>
@@ -103,7 +103,7 @@ E roju Ice cream panipuri tinnamu taste ayithe chala antey chala bagundi ❤we�
                             </div>
                         </div>
                         <div className="w-full">
-                            <p className="text-sm leading-tight"><span className="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>Assalu ela bro intha talent.. really awesome asalu, aa paani puri icecream ithe ultimate.. next week frnds tho vastunna thick shakes try cheyyali esari....<span className="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
+                            <p className="text-sm leading-tight"><span className="text-lg leading-none italic font-bold text-gray-400 mr-1"></span>Assalu ela bro intha talent.. really awesome asalu, aa paani puri icecream ithe ultimate.. next week frnds tho vastunna thick shakes try cheyyali esari....<span className="text-lg leading-none italic font-bold text-gray-400 ml-1"></span></p>
                         </div>
                     </div>
                 </div>
