@@ -27,11 +27,11 @@ const TestimonialSlider = () => {
                                 <img src="./images/about/about-dark-01.png" alt=""/>
                             </div>
                             <div className="flex-grow pl-3">
-                                <h6 className="font-bold text-sm uppercase text-gray-600">Kenzie Edgar.</h6>
+                                <h6 className="font-bold text-sm uppercase text-gray-600">Sujatha</h6>
                             </div>
                         </div>
                         <div className="w-full">
-                            <p className="text-sm leading-tight"><span className="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos sunt ratione dolor exercitationem minima quas itaque saepe quasi architecto vel! Accusantium, vero sint recusandae cum tempora nemo commodi soluta deleniti.<span className="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
+                            <p className="text-sm leading-tight">Good service. better to visit again, very friendly environment and good cultured behaviour and suggested better eyebrow shape and done well.</p>
                         </div>
                     </div>
                     <div className="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
@@ -40,11 +40,11 @@ const TestimonialSlider = () => {
                                 <img src="https://i.pravatar.cc/100?img=2" alt=""/>
                             </div>
                             <div className="flex-grow pl-3">
-                                <h6 className="font-bold text-sm uppercase text-gray-600">Stevie Tifft.</h6>
+                                <h6 className="font-bold text-sm uppercase text-gray-600">Naveena</h6>
                             </div>
                         </div>
                         <div className="w-full">
-                            <p className="text-sm leading-tight"><span className="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>Lorem ipsum, dolor sit amet, consectetur adipisicing elit. Dolore quod necessitatibus, labore sapiente, est, dignissimos ullam error ipsam sint quam tempora vel.<span className="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
+                            <p className="text-sm leading-tight">Excellent SPA at affordable pricing. The masseurs were polite, well mannered and specialists in their work. Had a excellent body massage. Balinese massage done by us were excellent. </p>
                         </div>
                     </div>
                 </div>
@@ -55,11 +55,11 @@ const TestimonialSlider = () => {
                                 <img src="https://i.pravatar.cc/100?img=3" alt=""/>
                             </div>
                             <div className="flex-grow pl-3">
-                                <h6 className="font-bold text-sm uppercase text-gray-600">Tommie Ewart.</h6>
+                                <h6 className="font-bold text-sm uppercase text-gray-600">Rosie Florence</h6>
                             </div>
                         </div>
                         <div className="w-full">
-                            <p className="text-sm leading-tight"><span className="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae, obcaecati ullam excepturi dicta error deleniti sequi.<span className="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
+                            <p className="text-sm leading-tight">Everything maintained clean and neat in the saloon and the facial was so good, Next time I'll come with my friends also.</p>
                         </div>
                     </div>
                     <div className="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
@@ -68,11 +68,11 @@ const TestimonialSlider = () => {
                                 <img src="https://i.pravatar.cc/100?img=4" alt=""/>
                             </div>
                             <div className="flex-grow pl-3">
-                                <h6 className="font-bold text-sm uppercase text-gray-600">Charlie Howse.</h6>
+                                <h6 className="font-bold text-sm uppercase text-gray-600">Charitha</h6>
                             </div>
                         </div>
                         <div className="w-full">
-                            <p className="text-sm leading-tight"><span className="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto inventore voluptatum nostrum atque, corrupti, vitae esse id accusamus dignissimos neque reprehenderit natus, hic sequi itaque dicta nisi voluptatem! Culpa, iusto.<span className="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
+                            <p className="text-sm leading-tight">affordable for the service. good maintainance and pedicure and facial were done really well. one more time visit.</p>
                         </div>
                     </div>
                 </div>
@@ -83,11 +83,11 @@ const TestimonialSlider = () => {
                                 <img src="https://i.pravatar.cc/100?img=5" alt=""/>
                             </div>
                             <div className="flex-grow pl-3">
-                                <h6 className="font-bold text-sm uppercase text-gray-600">Nevada Herbertson.</h6>
+                                <h6 className="font-bold text-sm uppercase text-gray-600">Navya</h6>
                             </div>
                         </div>
                         <div className="w-full">
-                            <p className="text-sm leading-tight"><span className="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, voluptatem porro obcaecati dicta, quibusdam sunt ipsum, laboriosam nostrum facere exercitationem pariatur deserunt tempora molestiae assumenda nesciunt alias eius? Illo, autem!<span className="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
+                            <p className="text-sm leading-tight">okasari vaste malli malli ravali anipistundi, chala manchi service icharu, really chala baga experice vundi.. malli next month ravali anukuntunna, thankyou...</p>
                         </div>
                     </div>
                     <div className="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
@@ -96,11 +96,11 @@ const TestimonialSlider = () => {
                                 <img src="https://i.pravatar.cc/100?img=6" alt=""/>
                             </div>
                             <div className="flex-grow pl-3">
-                                <h6 className="font-bold text-sm uppercase text-gray-600">Kris Stanton.</h6>
+                                <h6 className="font-bold text-sm uppercase text-gray-600">Krishnaveni</h6>
                             </div>
                         </div>
                         <div className="w-full">
-                            <p className="text-sm leading-tight"><span className="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem iusto, explicabo, cupiditate quas totam!<span className="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
+                            <p className="text-sm leading-tight">Nail and eyebrow and facial chinchanu.. akka chala baga chesaru. eyebrow first time ani bayapaddanu but baaga chesaru assalu, best shape choose chesi chesaru. next time hair step cut ki vastanu..</p>
                         </div>
                     </div>
                 </div>

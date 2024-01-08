@@ -281,9 +281,9 @@ const EngineersScoops = () => {
             </svg>
           </div>
           <div className="p-4">
-            <h5 className="mb-2 text-3xl font-bold text-black">Faluda</h5>
+            <h5 className="mb-2 text-3xl font-bold text-black">Engineer's Scoops Falooda</h5>
             <h6 className="mb-2 font-medium text-primary dark:text-primary-400">
-              Chocolate - Cherry - Vanilla
+              Special Ice creams - Dry fruits - Waffle
             </h6>
             <ul className="mb-4 flex justify-center">
               <li>
@@ -345,9 +345,9 @@ const EngineersScoops = () => {
             </svg>
              </div>
           <div className="p-4">
-            <h5 className="mb-2 text-3xl font-bold text-black">Scoops</h5>
+            <h5 className="mb-2 text-3xl font-bold text-black">Panipuri Ice Cream</h5>
             <h6 className="mb-2 font-medium text-primary dark:text-primary-400">
-              Chocolate - Nuts - Vanilla
+              Puri - Nuts - 4 kind of Icecreams
             </h6>
             <ul className="mb-4 flex justify-center">
               <li>
@@ -412,9 +412,9 @@ const EngineersScoops = () => {
             </svg>
           </div>
           <div className="p-4">
-            <h5 className="mb-2 text-3xl font-bold text-black">Ice-cream</h5>
+            <h5 className="mb-2 text-3xl font-bold text-black">Thick shake & Milk Shake</h5>
             <h6 className="mb-2 font-medium text-primary dark:text-primary-400">
-              Chocolate - Strawberry - Vanilla
+              Ice cream - Dry fruits - Nuts
             </h6>
             <ul className="mb-4 flex justify-center">
               <li>
