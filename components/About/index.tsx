@@ -241,7 +241,7 @@ const About = () => {
  <div className="flex flex-wrap justify-center">
   
   {/*card 2 */}
-  <div className="py10 transform hover:scale-105 transition-all duration-300 ease-in-out">
+  <a href="/EngineersScoops" className="py10 transform hover:scale-105 transition-all duration-300 ease-in-out">
   <div className="relative  h-48 overflow-hidden max-w-sm mx-8  rounded-bottom-right rounded-top-left rounded-top-right">
     <img
       className="object-cover object-center w-full h-full rounded-bottom-right rounded-top-left rounded-top-right"
@@ -267,9 +267,9 @@ Engineer's Scoops is an exceptional ice-cream and falooda outlet proudly brought
       </a>
     </div>
   </div>
-  </div>
+  </a>
   {/*card 3 */}
-  <div className="py10 transform hover:scale-105 transition-all duration-300 ease-in-out">
+  <a href="/Mj" className="py10 transform hover:scale-105 transition-all duration-300 ease-in-out">
   <div className="relative  h-48 overflow-hidden max-w-sm mx-8  rounded-bottom-right rounded-top-left rounded-top-right">
     <img
       className="object-cover object-center w-full h-full rounded-bottom-right rounded-top-left rounded-top-right"
@@ -296,7 +296,7 @@ Welcome to MJ Salon and Spa, where luxury meets tranquility. Nestled in a serene
       </a>
     </div>
   </div>
-  </div>
+  </a>
 </div>
 
 
