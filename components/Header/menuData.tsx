@@ -5,13 +5,13 @@ const menuData: Menu[] = [
     id: 1,
     title: "Home",
     newTab: false,
-    path: "#home",
+    path: "/",
   },
   {
     id: 2,
     title: "About",
     newTab: false,
-    path: "#about",
+    path: "/#About",
   },
 
   {
@@ -35,32 +35,16 @@ const menuData: Menu[] = [
         id: 31,
         title: "Engineer's Scoops",
         newTab: false,
-        path: "https://atoms-group2.vercel.app/",
+        path: "/EngineersScoops",
       },
       {
         id: 34,
         title: "MJ Saloon and Spa",
         newTab: false,
-        path: "https://atoms-education-omega.vercel.app/",
+        path: "Mj",
       },
-      {
-        id: 35,
-        title: "Atoms Digital Solutins ",
-        newTab: false,
-        path: "https://digital-solutions-orpin.vercel.app/",
-      },
-      {
-        id: 35,
-        title: "Atoms 2.O",
-        newTab: false,
-        path: "http://atoms2-0.vercel.app",
-      },
-      // {
-      //   id: 35.1,
-      //   title: "Support",
-      //   newTab: false,
-      //   path: "/support",
-      // },
+    
+    
       {
         id: 36,
         title: "",
