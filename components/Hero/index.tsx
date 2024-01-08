@@ -65,7 +65,7 @@ const Hero = () => {
         <div className="mr-auto place-self-center lg:col-span-7">
   <p className="max-w-2xl mb-2 font-light text-white textsize1  lg:mb-2  dark:text-gray-400">Welcome to</p>   
             <h1 className="max-w-2xl mb-2 text-3xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-7xl text-white dark:text-white">Atoms 2.0</h1>
-            <p className="max-w-2xl mb-4 font-light text-white textsize lg:mb-6  dark:text-gray-400">Creating changemakers who inspire...</p>
+            <p className="max-w-2xl mb-4 font-light text-white textsize lg:mb-6  dark:text-gray-400">Nurturing connections through warmth, service, and timeless moments of delight</p>
            
         </div>
               

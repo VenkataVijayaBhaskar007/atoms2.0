@@ -29,7 +29,7 @@ const About1 = () => {
             
                 <div className="w-3/4 mt-2">
               
-                  <p>ourselves as creators of learning environments that empower individuals to enhance their learning capabilities and contribute to making the world a better place to live. </p>
+                  <p>To elevate experiences by fostering connection, and curating moments that transcend expectations. </p>
                 </div>
               </div>
               <div className="mt-5">
@@ -42,7 +42,7 @@ const About1 = () => {
             
                 <div className="w-3/4 mt-2">
               
-                  <p>ourselves as creators of learning environments that empower individuals to enhance their learning capabilities and contribute to making the world a better place to live. </p>
+                  <p>To craft spaces that inspire joy, leaving an indelible mark on hearts. </p>
                 </div>
               </div>
              
