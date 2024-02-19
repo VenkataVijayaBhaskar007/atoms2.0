@@ -3,7 +3,7 @@ import React, { useEffect } from 'react';
 const TestimonialSlider = () => {
 
   return (
-    <section className="bg-gray-50">
+    <section  style={{ marginTop:"-20rem" }}>
     
 <div className="min-w-screen  bg-gray-50 flex items-center justify-center ">
     <div className="w-full bg-white border-t border-b border-gray-200 px-5  py-5 text-gray-800">
@@ -24,7 +24,7 @@ const TestimonialSlider = () => {
                     <div className="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
                         <div className="w-full flex mb-4 items-center">
                             <div className="overflow-hidden rounded-full w-10 h-10 bg-gray-50 border border-gray-200">
-                                <img src="./images/about/about-dark-01.png" alt=""/>
+                            <img className="object-cover w-full h-full" src="./images/about/1.png" alt=""/>
                             </div>
                             <div className="flex-grow pl-3">
                                 <h6 className="font-bold text-sm uppercase text-gray-600">Vinay</h6>
@@ -38,7 +38,7 @@ Thank you</p>
                     <div className="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
                         <div className="w-full flex mb-4 items-center">
                             <div className="overflow-hidden rounded-full w-10 h-10 bg-gray-50 border border-gray-200">
-                                <img src="https://i.pravatar.cc/100?img=2" alt=""/>
+                            <img className="object-cover w-full h-full" src="./images/about/2.png" alt=""/>
                             </div>
                             <div className="flex-grow pl-3">
                                 <h6 className="font-bold text-sm uppercase text-gray-600">Amulya</h6>
@@ -53,7 +53,7 @@ Thank you</p>
                     <div className="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
                         <div className="w-full flex mb-4 items-center">
                             <div className="overflow-hidden rounded-full w-10 h-10 bg-gray-50 border border-gray-200">
-                                <img src="https://i.pravatar.cc/100?img=3" alt=""/>
+                            <img className="object-cover w-full h-full" src="./images/about/1.png" alt=""/>
                             </div>
                             <div className="flex-grow pl-3">
                                 <h6 className="font-bold text-sm uppercase text-gray-600">Sharat Chandra</h6>
@@ -67,7 +67,7 @@ Price kuda reasonable ga undi. Finally Aa nuts,aa flavour of icecreams chala bag
                     <div className="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
                         <div className="w-full flex mb-4 items-center">
                             <div className="overflow-hidden rounded-full w-10 h-10 bg-gray-50 border border-gray-200">
-                                <img src="https://i.pravatar.cc/100?img=4" alt=""/>
+                            <img className="object-cover w-full h-full" src="./images/about/2.png" alt=""/>
                             </div>
                             <div className="flex-grow pl-3">
                                 <h6 className="font-bold text-sm uppercase text-gray-600">Sravika</h6>
@@ -83,7 +83,7 @@ E roju Ice cream panipuri tinnamu taste ayithe chala antey chala bagundi ❤we�
                     <div className="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
                         <div className="w-full flex mb-4 items-center">
                             <div className="overflow-hidden rounded-full w-10 h-10 bg-gray-50 border border-gray-200">
-                                <img src="https://i.pravatar.cc/100?img=5" alt=""/>
+                            <img className="object-cover w-full h-full" src="./images/about/2.png" alt=""/>
                             </div>
                             <div className="flex-grow pl-3">
                                 <h6 className="font-bold text-sm uppercase text-gray-600">Sai Priya</h6>
@@ -96,7 +96,7 @@ E roju Ice cream panipuri tinnamu taste ayithe chala antey chala bagundi ❤we�
                     <div className="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
                         <div className="w-full flex mb-4 items-center">
                             <div className="overflow-hidden rounded-full w-10 h-10 bg-gray-50 border border-gray-200">
-                                <img src="https://i.pravatar.cc/100?img=6" alt=""/>
+                            <img className="object-cover w-full h-full" src="./images/about/1.png" alt=""/>
                             </div>
                             <div className="flex-grow pl-3">
                                 <h6 className="font-bold text-sm uppercase text-gray-600">Chandra Kiran</h6>

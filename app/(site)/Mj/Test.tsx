@@ -10,7 +10,7 @@ const TestimonialSlider = () => {
         <div className="w-full max-w-6xl mx-auto">
             <div className="text-center max-w-xl mx-auto">
                 <h1 className="text-4xl  font-bold mb-3 text-gray-600">Testimonials</h1>
-                <h3 className="text-xl mb-2 font-light">Reviews about Engineer's Scoops</h3>
+                <h3 className="text-xl mb-2 font-light">Happy customer's of Mj Saloon & SPA</h3>
                 <div className="text-center mb-10">
                     <span className="inline-block w-1 h-1 rounded-full bg-violet-500 ml-1"></span>
                     <span className="inline-block w-3 h-1 rounded-full bg-violet-500 ml-1"></span>
@@ -24,7 +24,7 @@ const TestimonialSlider = () => {
                     <div className="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
                         <div className="w-full flex mb-4 items-center">
                             <div className="overflow-hidden rounded-full w-10 h-10 bg-gray-50 border border-gray-200">
-                                <img src="./images/about/about-dark-01.png" alt=""/>
+                            <img className="object-cover w-full h-full" src="./images/about/2.png" alt=""/>
                             </div>
                             <div className="flex-grow pl-3">
                                 <h6 className="font-bold text-sm uppercase text-gray-600">Sujatha</h6>
@@ -37,7 +37,7 @@ const TestimonialSlider = () => {
                     <div className="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
                         <div className="w-full flex mb-4 items-center">
                             <div className="overflow-hidden rounded-full w-10 h-10 bg-gray-50 border border-gray-200">
-                                <img src="https://i.pravatar.cc/100?img=2" alt=""/>
+                                <img className ="object-cover w-full h-full" src="./images/about/2.png" alt=""/>
                             </div>
                             <div className="flex-grow pl-3">
                                 <h6 className="font-bold text-sm uppercase text-gray-600">Naveena</h6>
@@ -52,7 +52,7 @@ const TestimonialSlider = () => {
                     <div className="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
                         <div className="w-full flex mb-4 items-center">
                             <div className="overflow-hidden rounded-full w-10 h-10 bg-gray-50 border border-gray-200">
-                                <img src="https://i.pravatar.cc/100?img=3" alt=""/>
+                                <img className ="object-cover w-full h-full" src="./images/about/2.png" alt=""/>
                             </div>
                             <div className="flex-grow pl-3">
                                 <h6 className="font-bold text-sm uppercase text-gray-600">Rosie Florence</h6>
@@ -65,7 +65,7 @@ const TestimonialSlider = () => {
                     <div className="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
                         <div className="w-full flex mb-4 items-center">
                             <div className="overflow-hidden rounded-full w-10 h-10 bg-gray-50 border border-gray-200">
-                                <img src="https://i.pravatar.cc/100?img=4" alt=""/>
+                                <img className ="object-cover w-full h-full" src="./images/about/2.png" alt=""/>
                             </div>
                             <div className="flex-grow pl-3">
                                 <h6 className="font-bold text-sm uppercase text-gray-600">Charitha</h6>
@@ -80,7 +80,7 @@ const TestimonialSlider = () => {
                     <div className="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
                         <div className="w-full flex mb-4 items-center">
                             <div className="overflow-hidden rounded-full w-10 h-10 bg-gray-50 border border-gray-200">
-                                <img src="https://i.pravatar.cc/100?img=5" alt=""/>
+                            <img className="object-cover w-full h-full" src="./images/about/2.png" alt=""/>
                             </div>
                             <div className="flex-grow pl-3">
                                 <h6 className="font-bold text-sm uppercase text-gray-600">Navya</h6>
@@ -93,7 +93,7 @@ const TestimonialSlider = () => {
                     <div className="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
                         <div className="w-full flex mb-4 items-center">
                             <div className="overflow-hidden rounded-full w-10 h-10 bg-gray-50 border border-gray-200">
-                                <img src="https://i.pravatar.cc/100?img=6" alt=""/>
+                                     <img className="object-cover w-full h-full" src="./images/about/2.png" alt=""/>
                             </div>
                             <div className="flex-grow pl-3">
                                 <h6 className="font-bold text-sm uppercase text-gray-600">Krishnaveni</h6>

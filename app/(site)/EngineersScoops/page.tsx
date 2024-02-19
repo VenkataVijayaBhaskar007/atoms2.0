@@ -19,7 +19,7 @@ const EngineersScoops = () => {
             <a href="#" className="inline-flex items-center justify-center px-5 py-3 mr-4 text-base font-medium text-center text-gray-900 border border-gray-300 rounded-lg hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800">
                 View menu
             </a> 
-            <a href="#" className="inline-flex items-center justify-center px-5 py-3  text-base font-medium text-center text-white rounded-lg bg-blue-600 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 ">
+            <a href="tel:7330802181" className="inline-flex items-center justify-center px-5 py-3  text-base font-medium text-center text-white rounded-lg bg-blue-600 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 ">
                Call to get Service
                 <svg className="w-5 h-5 ml-2 -mr-1" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
             </a>
@@ -242,8 +242,24 @@ const EngineersScoops = () => {
   </div>
 
   <div className="mx-auto justify-center items-center flex flex-col md:flex-row gap-20 p-4 lg:p-10">
-    <img className="object-cover object-center rounded w-[80%] md:w-[40%]  h-full" src="./images/about/menu-1.jpg" alt="Menu 1" />
-    <img className="object-cover object-center rounded w-[80%] md:w-[40%]  h-full" src="./images/about/menu-2.jpg" alt="Menu 2" />
+    <img className="object-cover object-center rounded w-[80%] md:w-[40%]  h-full" src="./images/about/1.jpg" alt="Menu 1" />
+    <img className="object-cover object-center rounded w-[80%] md:w-[40%]  h-full" src="./images/about/2.jpg" alt="Menu 2" />
+
+  </div>
+  <div className="mx-auto justify-center items-center flex flex-col md:flex-row gap-20 p-4 lg:p-10">
+    <img className="object-cover object-center rounded w-[80%] md:w-[40%]  h-full" src="./images/about/3.jpg" alt="Menu 1" />
+    <img className="object-cover object-center rounded w-[80%] md:w-[40%]  h-full" src="./images/about/4.jpg" alt="Menu 2" />
+    
+  </div>
+  <div className="mx-auto justify-center items-center flex flex-col md:flex-row gap-20 p-4 lg:p-10">
+    <img className="object-cover object-center rounded w-[80%] md:w-[40%]  h-full" src="./images/about/5.jpg" alt="Menu 1" />
+    <img className="object-cover object-center rounded w-[80%] md:w-[40%]  h-full" src="./images/about/6.jpg" alt="Menu 2" />
+
+  </div>
+  <div className="mx-auto justify-center items-center flex flex-col md:flex-row gap-20 p-4 lg:p-10">
+    <img className="object-cover object-center rounded w-[80%] md:w-[40%]  h-full" src="./images/about/7.jpg" alt="Menu 1" />
+    <img className="object-cover object-center rounded w-[80%] md:w-[40%]  h-full" src="./images/about/8.jpg" alt="Menu 2" />
+    
   </div>
 </section>
 
@@ -256,7 +272,7 @@ const EngineersScoops = () => {
 
 
 
-<section className="p-10">
+<section className="p-5">
 
 <div className="container mt-6 mx-auto md:px-6">
  
