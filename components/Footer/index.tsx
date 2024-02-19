@@ -20,7 +20,7 @@ export default function Footer() {
                 <img className=" max-w-full mx-auto md:max-w-none h-auto" src="./images/logo/Atoms-Logo-White.png" width={100} height={60} alt="Features 02" />
                 </Link>
               </div>
-              <div className="text-gray-400  hover:text-gray-100 transition duration-150 ease-in-out z-999">Stay connected with Atoms Software Services, a pioneering branch of the Atoms Group, as we make strides in software services. Explore innovative web applications and exceptional UI/UX designs. Committed to excellence, we actively contribute to the success of ventures. Join us on our evolving journey in the dynamic field of software services.</div>
+              <div className="text-gray-400  hover:text-gray-100 transition duration-150 ease-in-out z-999">Atoms Hospitality is committed to providing affordable and impressive hospitality services for people from all social backgrounds. Our current projects include a private hostel offering unique services that cater to the needs of our tenants, setting us apart from the rest.</div>
             </div>
             <div className="order-1 md:order-2 flex  justify-center sm:mt-0 mr-0 md:ml-20 z-999">
             <div className="container ">
@@ -132,7 +132,7 @@ export default function Footer() {
                     <Link href="https://education.atomsgroup.net/section1" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Personality Development Program</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="https://education.atomsgroup.net/section2" className="text-gray-300 hover:text-gray-100 transition duration-150 ease-in-out">The Acumen Club</Link>
+                    <Link href="https://education.atomsgroup.net/TheAcumenClub" className="text-gray-300 hover:text-gray-100 transition duration-150 ease-in-out">The Acumen Club</Link>
                   </li>
                   <li className="mb-1">
                     <Link href="https://education.atomsgroup.net/section3" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Atoms Tutions</Link>
@@ -152,10 +152,10 @@ export default function Footer() {
                   
                   {/* ... list items ... */}
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out z-999">Engineers Scoops</Link>
+                    <Link href="https://atoms2.0.atomsgroup.net/EngineersScoops" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out z-999">Engineers Scoops</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-300 hover:text-gray-100 transition duration-150 ease-in-out z-999">MJ Saloon & Spa</Link>
+                    <Link href="https://atoms2.0.atomsgroup.net/Mj" className="text-gray-300 hover:text-gray-100 transition duration-150 ease-in-out z-999">MJ Saloon & Spa</Link>
                   </li>
                
                 </ul>
