@@ -155,10 +155,10 @@ const Header = () => {
           
 
             <Link
-              href="/support"
+              href="tel:7330802181"
               className="flex items-center justify-center rounded-full bg-primary px-7.5 py-2.5 text-regular text-white duration-300 ease-in-out hover:bg-blue-900 hover:translate-y-[-8px]"
             >
-              contact US 
+              Contact US 
             </Link>
           </div>
         </div>

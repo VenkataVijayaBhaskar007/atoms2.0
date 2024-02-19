@@ -116,7 +116,7 @@ const About = () => {
  <div className="flex flex-wrap justify-center">
   
   {/*card 2 */}
-  <a href="/EngineersScoops" className="py10 transform hover:scale-105 transition-all duration-300 ease-in-out">
+  <div className="py10 transform hover:scale-105 transition-all duration-300 ease-in-out">
   <div className="relative  h-48 overflow-hidden max-w-sm mx-8  rounded-bottom-right rounded-top-left rounded-top-right">
     <img
       className="object-cover object-center w-full h-full rounded-bottom-right rounded-top-left rounded-top-right"
@@ -136,15 +136,15 @@ const About = () => {
 Engineer's Scoops is an exceptional ice-cream and falooda outlet proudly brought to you by Atoms Group. With a team of skilled engineers at the...   </p>
       <a
         href="/EngineersScoops"
-        className="inline-flex items-center gap-2.5 text-black hover:text-primary dark:text-white dark:hover:text-primary mt-5"
+        className="inline-flex items-center gap-2.5 text-black hover:text-primary dark:text-white dark:hover:text-primary mt-5 hover:scale-105 transition-all duration-300 ease-in-out"
       >
         <button className="bg-blue-500 text-white rounded-md px-2 py-1">Visit site</button>
       </a>
     </div>
   </div>
-  </a>
+  </div>
   {/*card 3 */}
-  <a href="/Mj" className="py10 transform hover:scale-105 transition-all duration-300 ease-in-out">
+  <div className="py10 transform hover:scale-105 transition-all duration-300 ease-in-out ">
   <div className="relative  h-48 overflow-hidden max-w-sm mx-8  rounded-bottom-right rounded-top-left rounded-top-right">
     <img
       className="object-cover object-center w-full h-full rounded-bottom-right rounded-top-left rounded-top-right"
@@ -165,13 +165,13 @@ Engineer's Scoops is an exceptional ice-cream and falooda outlet proudly brought
 Welcome to MJ Salon and Spa, where luxury meets tranquility. Nestled in a serene oasis, our sanctuary offers a range of tailored treatments to rejuvenate...   </p>
       <a
         href="/Mj"
-        className="inline-flex items-center gap-2.5 text-black hover:text-primary dark:text-white dark:hover:text-primary mt-5"
+        className="inline-flex items-center gap-2.5 text-black hover:text-primary dark:text-white dark:hover:text-primary mt-5 hover:scale-105 transition-all duration-300 ease-in-out"
       >
         <button className="bg-blue-500 text-white rounded-md px-2 py-1">Visit site</button>
       </a>
     </div>
   </div>
-  </a>
+  </div>
 </div>
 
 
